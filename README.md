@@ -3,3 +3,11 @@
 <img width="800" height="492" alt="image" src="https://github.com/user-attachments/assets/c8623ea7-c57d-40b1-afe7-0cebdfc35422" />
 <img width="1000" height="289" alt="image" src="https://github.com/user-attachments/assets/31df2d01-01c7-448f-a5cc-c5ac8035f070" />
 
+
+<details>
+  <summary> $\huge{\textsf{blinkies n such (flash cw)}}$ </summary>
+ <div align="left">
+
+
+<div align="left">
+</details>
